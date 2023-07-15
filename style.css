@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .cabecalho{
     background-color: #424E61;
     color: white;
@@ -15,6 +20,35 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.escola_imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola_div_conteudo{
+    width: 35%;
+}
+
+.escola_titulo{
+    padding: 24px 0;
+}
+
+.estudantes_imagem{
+    width: 120px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
 
 header {
