@@ -1,5 +1,17 @@
 # 2023-MAT2-HTML-CSS
 
+## Descrição
+
+Este repositório é utilizado para o curso "html-css-usando-criatividade-criar-site" da Alura, ministrado para turmas do 2 ano. Nele está registrado os arquivos finais do curso (*.png, *.jpg, *.jpeg, index.html, style.css), rúbricas avaliatívas e uma lista de links para aprofundamento dos temas.
+
+O curso "html-css-usando-criatividade-criar-site" aborda os seguintes temas:
+
+1. Construir protótipos de baixa e alta fidelidade, e interpretar protótipos de alta fidelidade na construção de páginas;
+2. Utilizar github para controle dos arquivos do site;
+3. Construir páginas web utilizando html/css;
+
+O resultado final do curso pode ser acessado pelo [link](https://pfransozi.github.io/2023-MAT2-HTML-CSS/);
+
 ## Rúbricas
 
 * definir protótipo de baixa fidelidade e de alta fidelidade;
